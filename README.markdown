@@ -33,7 +33,3 @@ docker compose up
 
 docker compose exec web rspec
 ```
-
-## If you have questions
-
-Ask the engineering manager you've been in contact with. This exercise is meant to give you an opportunity to show us your work—we don't want you to struggle with administrative issues like unclear requirements. Agile software development welcomes stakeholder collaboration!
